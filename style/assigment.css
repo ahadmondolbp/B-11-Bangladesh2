@@ -245,18 +245,27 @@ margin-bottom: 24px;
    }
    .h5-200{
     background-color: #F1F1F3;
-    padding: 80px;
-    border-radius:10px ;
+    width: 240px;
+    height: 128px;
+    text-align: center;
+    padding-top: 80px;
+    border-radius: 10px;
    }
 .h5-500{
   background-color:#F1F1F3 ;
-  padding: 80px;
-  border-radius: 10px;
+    width: 240px;
+    height: 128px;
+    text-align: center;
+    padding-top: 80px;
+    border-radius: 10px;
 }
 .h5-1000{
   background-color:#F1F1F3 ;
-  padding: 80px;
-  border-radius: 10px;
+    width: 240px;
+    height: 128px;
+    text-align: center;
+    padding-top: 80px;
+    border-radius: 10px;
 }
 .form-btn{
  text-align: center;
